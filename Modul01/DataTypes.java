@@ -17,5 +17,8 @@ public class DataTypes{
         System.out.println("IPK : " + ipk);
         System.out.println("Nilai PBO : " + ipk);
         System.err.println("Tampan : " + tampan);
+
+        JOptionPpane.showMessageDialog(null,"Hai, " + namaDean + namaTengah + namaBelakang);
+        
     }
 }
